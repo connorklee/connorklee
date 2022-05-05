@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @connorklee
-- 👀 I’m interested in robotics, HCI, machine learning, and deep learning
-- 🌱 I’m currently learning cognitive science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in artificial intelligence, HCI, and robotics
+- 🌱 I’m currently studyinh cognitive science
+- 📫 How to reach me connor.lee@yale.edu
 
 <!---
 connorklee/connorklee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

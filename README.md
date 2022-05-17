@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @connorklee
 - 👀 I’m interested in artificial intelligence, HCI, and robotics
-- 🌱 I’m currently studyinh cognitive science
+- 🌱 I’m currently studying cognitive science
 - 📫 How to reach me connor.lee@yale.edu
 - Link to my Gitlab: https://gitlab.com/connorklee
 
